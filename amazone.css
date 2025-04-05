@@ -18,7 +18,7 @@
 }
 .logo{
     /* background-color: green; */
-background-image: url("C:/Users/kiran/OneDrive/Desktop/HTML/amazon/amazon-image/amazon_logo.png");
+background-image: url("amazon-image/amazon_logo.png");
     background-size: cover;
     height: 50px;
     
@@ -118,7 +118,7 @@ font-size: 0.85rem;
 
 /* hero */
 .hero-section{
-    background-image: url(C:/Users/kiran/OneDrive/Desktop/HTML/amazon/amazon-image/hero_image.jpg);
+    background-image: url('amazon-image/hero_image.jpg');
     height: 350px;
     background-size: cover;
     display: flex;
@@ -214,7 +214,7 @@ ul a{
     justify-content: space-evenly;
 }
 .logo{
-    background-image: url("C:/Users/kiran/OneDrive/Desktop/HTML/amazon/amazon-image/amazon_logo.png");
+    background-image: url("amazon-image/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
